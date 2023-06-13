@@ -1,10 +1,8 @@
-# First capstone project HCMUT :rat:
+# Second capstone project HCMUT :rat:
 
 ## Introduction
 
-Real-time sensor data implement using MQTT message broker.
-
-And could be more than that...
+Collecting and publishing real-time sensor data using MQTT message broker. Controlling device by interacting with message broker topic.
 
 ## Feature
 
@@ -18,7 +16,7 @@ And could be more than that...
 
 **Microprocess board**
 
-* Yolobit collection (ESP32)
+* Yolobit kit (ESP32)
 
 **Library:**
 
